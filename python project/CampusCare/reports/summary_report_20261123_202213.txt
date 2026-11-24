@@ -1,0 +1,58 @@
+CAMPUSCARE 2.0 - CAMPUS COMPLAINT SUMMARY REPORT
+Generated: 2026-11-23 20:22:13
+================================================================
+
+Total complaints:        30
+Open complaints:         24
+Critical complaints:     2
+Overdue complaints:      18
+Emergency reports:       2
+Average resolution time: 2.4 days (57.0 hours)
+Student satisfaction:    3.86/5 from 7 rating(s)
+
+STATUS BREAKDOWN
+  Pending      8
+  Assigned     7
+  In Progress  8
+  Resolved     6
+  Reopened     1
+  Closed       0
+
+COMPLAINTS BY CATEGORY
+  Internet       8
+  Cleanliness    5
+  Hostel         4
+  Electricity    4
+  Classroom      4
+  Transport      2
+  Other          2
+  Academic       1
+
+TOP LOCATIONS
+  Hostel A                             7
+  Cafeteria                            3
+  Library - 2nd Floor                  2
+  Computer Lab - AB2                   2
+  Academic Block 1 - Room 210          2
+  Sports Complex                       1
+  Hostel C - Terrace                   1
+  Hostel C - Mess                      1
+
+STAFF WORKLOAD (OPEN CASES)
+  Imran Qureshi (STF-IT)               5
+  Lakshmi Iyer (STF-HK)                3
+  Sunita Deshpande (STF-FAC)           3
+  Campus Administrator (admin)         1
+  Joseph D'Souza (STF-TRANS)           1
+  Rakesh Verma (STF-HOSTEL)            1
+  Mahesh Patil (STF-ELEC)              1
+  Dr. Kavita Menon (STF-ACAD)          1
+
+RECURRING ISSUE GROUPS
+  IG-0001 [Confirmed] Recurring Internet issue at Hostel A - 6 linked report(s), 6 open
+  IG-0002 [Suggested] Recurring Cleanliness issue at Cafeteria - 3 linked report(s), 3 open
+
+PREVENTIVE MAINTENANCE SUGGESTIONS
+  Inspect Hostel A (Internet): 6 recurring reports in group IG-0001 suggest a preventive inspection.
+
+Note: demonstration targets and sample data; not official college statistics.
